@@ -5,6 +5,7 @@ Link to the Udacity course: [Intro to HTML and CSS](https://www.udacity.com/cour
 ## Portfolio project 
 
 - Portfolio page: https://kenneth-lau.github.io/udacity-html-css-intro/
+- Customized page: https://kenneth-lau.github.io/udacity-html-css-intro/customized-portfolio.html
 
 ## Other exercises
 
